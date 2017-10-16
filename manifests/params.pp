@@ -15,7 +15,6 @@ class ghebackups::params {
   $revision = 'master'
   $user = 'root'
   $packages = [
-    'git',
     'rsync'
   ]
 }
